@@ -34,3 +34,6 @@ The app allows users to:
 
 ## 📂 Project Structure
 
+
+<img width="525" height="347" alt="image" src="https://github.com/user-attachments/assets/a4bf4480-4b01-4d61-a2a6-44051ce50f5d" />
+
